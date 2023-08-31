@@ -1,13 +1,13 @@
 <body>
-    <h1></h1>
-    <h2></h2>
-    <h3></h3>
-    <p></p>
-    <p></p>
-    <p></p>
+    <h1>Titulo Principal</h1>
+    <h2>Subtitulo de Nivel 2</h2>
+    <h3>Subtitulo de Nivel 3</h3>
+    <p>Este e um paagrafo de texto comum.</p>
+    <p>Outro paragrafo com <strong>texto enfatizado</strong> e <em> texto em italico</em>.</p>
+    <p>Podemos <mark>realçar</mark> partes inportantes do texto.</p>
   <hr>
-    <img>
-    <a>
+    <img src"imagem.jpg" alt="Imagem de exemplo">
+    <a href="https://www.exemplo.com">Link parra exemplo.com</a>
 
   <table>
       <tr>
