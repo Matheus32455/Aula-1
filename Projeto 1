@@ -1,0 +1,48 @@
+<body>
+    <h1></h1>
+    <h2></h2>
+    <h3></h3>
+    <p></p>
+    <p></p>
+    <p></p>
+  <hr>
+    <img>
+    <a>
+
+  <table>
+      <tr>
+          <th></th>
+          <th></th>
+      </tr>
+      <tr>
+          <td></td>
+           <td></td>
+      </tr>
+      <tr>
+          <td></td>
+          <td></td>
+      </tr>
+  </table>
+
+  <div>
+      <p></p>
+      <span></span>
+  </div>
+
+  <from>
+      <label></label>
+      <input>
+      <br>
+      <label></label>
+      <textarea></textarea>
+      <br>
+      <button></button>
+  </form>
+
+  <select>
+        <option></option>
+        <option></option>
+        <option></option>
+  </select>
+</body>
+  
